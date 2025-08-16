@@ -1,4 +1,4 @@
-# Customer Complaints Classifications
+# Consumer Grievance Classification Model
 
 ## Overview
 
